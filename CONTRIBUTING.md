@@ -55,7 +55,7 @@ $ git push -u origin <changes-name>
 
 We follow the [Conventional Commit guidelines](https://www.conventionalcommits.org/en/v1.0.0/#summary):
 
-* Max 70 characters
+* Max. length: 70 characters (including spaces)
 * Desciptive
 * Lower case
 * No punctuation
