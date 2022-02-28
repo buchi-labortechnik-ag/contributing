@@ -2,11 +2,6 @@
 
 Thanks for your interest in contributing to Büchi! :tada: We value everybody's contribution.
 
-## How to contribute?
-
-[To define]
-
-
 ## Contribute! (Pull Request) 
 
 Before you start, we strongly recommend you to search on existing PR's and issues to see if the issue has already been reported.
