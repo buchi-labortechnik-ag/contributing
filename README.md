@@ -47,7 +47,7 @@ $ git push -u origin <changes-name>
 
 * Get a PR merged! :1st_place_medal: ([click here for more details about creating a PR from a fork]([url](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)))
 
-For internal collaborators we are using the [Shared repository collaboration model]([url](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#shared-repository-model))
+**For internal collaborators**, we are using the [Shared repository collaboration model]([url](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#shared-repository-model))
 
 * Create an issue or start from an existing issue (every PR should be linked to a single issue - there is a many-to-one relation between PRs and issues)
 * Clone the repository locally
