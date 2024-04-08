@@ -6,7 +6,7 @@ Thanks for your interest in contributing to Büchi! :tada: We value everybody's 
 
 Before you start, we strongly recommend searching for existing PRs and issues to see if the issue has already been reported.
 
-For external collaborators, we are adhering to the [Fork and pull collaboration model]([url](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#fork-and-pull-model))
+**For external collaborators**, we are adhering to the [Fork and pull collaboration model]([url](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#fork-and-pull-model))
 
 * Fork Buchi's repo and clone it onto your computer
 
