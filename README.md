@@ -2,7 +2,13 @@
 
 Thanks for your interest in contributing to Büchi! :tada: We value everybody's contribution.
 
-## Contribute! (Pull Request) 
+# Table of Contents
+1. [Contribute!](#contribute)
+2. [Naming Conventions](#naming-conventions)
+3. [Other ways to contribute](#other-ways-to-contribute)
+4. [Code of conduct](#code-of-conduct)
+
+## Contribute! (Pull Request) <a name="contribute" />
 
 Before you start, we strongly recommend searching for existing PRs and issues to see if the issue has already been reported.
 
@@ -85,7 +91,7 @@ $ git push -u origin <changes-name>
 
 * Get a PR merged! :1st_place_medal:
 
-## Naming Conventions
+## Naming Conventions <a name="naming-conventions" />
 
 We follow the [Conventional Commit guidelines](https://www.conventionalcommits.org/en/v1.0.0/#summary):
 
@@ -95,7 +101,7 @@ We follow the [Conventional Commit guidelines](https://www.conventionalcommits.o
 * No punctuation
 * Include our types of commit
 
-### Types
+### Types <a name="types" />
 
 * feat: A new feature
 * fix: A bug fix
@@ -115,7 +121,7 @@ The commit example should be structured as follows:
 <type>[optional scope]: <description>
 ```
 
-### Naming your commit
+### Naming your commit <a name="commit-naming" />
 
 #### Commit Message Examples
 
@@ -138,7 +144,7 @@ DOCs update | All letters should be lowercase
 Fixed plots functions that return the HTML file rendered in different formats | Too long
 
 
-### Naming your branch
+### Naming your branch <a name="branch-naming" />
 
 Your branch name should follow the format type-scope(-issue_id):
 
@@ -170,11 +176,11 @@ FIX-PLOTS1 | Not descriptive enough, all caps, doesn't follow the format
 my-branch-1 | Not descriptive, wrong format
 
 
-## Other ways to contribute
+## Other ways to contribute <a name="other-ways-to-contribute" />
 
 Collaborations in a podcast, invitations to a meetup, or anything else to share Buchi's work is also very valuable to us 	:handshake:
 
 
-## Code of conduct
+## Code of conduct <a name="code-of-conduct" />
 
 Buchi adheres to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct/). By participating, you are expected to uphold this code.
