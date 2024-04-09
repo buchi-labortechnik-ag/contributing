@@ -178,7 +178,7 @@ my-branch-1 | Not descriptive, wrong format
 
 ## Other ways to contribute <a name="other-ways-to-contribute" />
 
-Collaborations in a podcast, invitations to a meetup, or anything else to share Buchi's work is also very valuable to us 	:handshake:
+Collaborations in a podcast, invitations to a meetup, or anything else to share Buchi's work is also very valuable to us 🤝
 
 
 ## Code of conduct <a name="code-of-conduct" />
